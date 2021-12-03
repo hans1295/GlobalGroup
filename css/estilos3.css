@@ -52,7 +52,7 @@ a {
   transition: all 0.4s;}
 
 a:hover{
-  color: #a5cc36;
+  color: #F9A01B;
   text-decoration: none;}
 
 ul{list-style: none;}
@@ -355,7 +355,7 @@ h1, h2, h3, h4, h5, h6 {
   outline: none;}
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #a5cc36;
+  color: #F9A01B;
   text-decoration: none;}
 
 .mobile-nav-overly {
